@@ -27,7 +27,7 @@ This project shows how to get an Okta API administrator Token to list users and 
 
 # Running the project
 
-- On root folder type 
+- In the root folder type 
 ```
 mvn spring-boot:run
 ```
